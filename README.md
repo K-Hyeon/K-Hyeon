@@ -1,5 +1,6 @@
-### Hye-Hyeon Kim's Develop Story
+# Hye-Hyeon Kim's Develop Story 👑
 
+### Who Am I?
 <!--
 **K-Hyeon/K-Hyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
