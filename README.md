@@ -1,6 +1,4 @@
-# Hye-Hyeon Kim's Develop Story 👑
-
-### #DataScientist #AI
+## Hye-Hyeon Kim
 <!--
 **K-Hyeon/K-Hyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
