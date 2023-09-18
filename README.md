@@ -1,4 +1,4 @@
-<h2 align="center">Hye-Hyeon Kim<br></h2>
+<h1 align="center">Hye-Hyeon Kim<br></h1>
 
 <!--
 **K-Hyeon/K-Hyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
