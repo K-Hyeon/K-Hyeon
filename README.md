@@ -1,4 +1,14 @@
 <h1 align="center">Hye-Hyeon Kim</h1>
+<p>
+  <a href="https://solved.ac/khyeon">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khyeon" width=44% />
+  </a>
+</p>
+<p>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=khyeon&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyeon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
+
 
 <!--
 **K-Hyeon/K-Hyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
