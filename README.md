@@ -13,7 +13,7 @@
 
 <p>
   <a href="https://solved.ac/khyeon">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khyeon" width=44% />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khyeon" width=100% />
   </a>
 </p>
 <p>
