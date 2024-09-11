@@ -1,6 +1,6 @@
 <h1 align="center">Hye-Hyeon Kim</h1>
 <h3> 🛠️ Tech Stack 🛠️ </h3>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/keras-D00000?style=plastic&logo=keras&logoColor=white">
@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/langchain-1C3C3C?style=plastic&logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/pycharm-000000?style=plastic&logo=pycharm&logoColor=white">
 </p>
+<br></br>
 
 <p>
   <a href="https://solved.ac/khyeon">
