@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/langchain-1C3C3C?style=plastic&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/pycharm-000000?style=plastic&logo=pycharm&logoColor=white">
 </p>
 <br></br>
 
